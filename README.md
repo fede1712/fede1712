@@ -14,17 +14,3 @@ fedemarinasruiz@gmail.com
 
 
 ## A little more about my skills... 🚀
-
-
-
-```
-const fede ={
-    hardSkills:{
-            front-endTechnologies:[HTML, CSS3, Bootstrap, JavaScript(ES6), React],
-            back-endTechnologies: [ExpressJs, NodeJs, MongoDb, API Rest],
-            versionControl: [git, github]
-    }
-    softSkills: [organization, curiosity, teamwork]
-}
-```
-

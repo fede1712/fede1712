@@ -11,6 +11,3 @@ fedemarinasruiz@gmail.com
 ### 🌍 Or by Linkedin:
 
 [Linkedin profile](https://www.linkedin.com/in/federico-marinas/)
-
-
-## A little more about my skills... 🚀
